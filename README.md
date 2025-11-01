@@ -38,7 +38,7 @@ An intelligent research paper analysis tool powered by Natural Language Processi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/research-paper-analyzer.git
+git clone https://github.com/JatinKhanijoan/research-paper-analyzer.git
 cd research-paper-analyzer
 ```
 
@@ -327,8 +327,8 @@ Contributions are welcome! Here's how you can help:
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search [existing issues](https://github.com/yourusername/research-paper-analyzer/issues)
-3. Create a [new issue](https://github.com/yourusername/research-paper-analyzer/issues/new) with:
+2. Search [existing issues](https://github.com/JatinKhanijoan/research-paper-analyzer/issues)
+3. Create a [new issue](https://github.com/JatinKhanijoan/research-paper-analyzer/issues/new) with:
    - Python version
    - Error message
    - Steps to reproduce
@@ -339,7 +339,7 @@ If you encounter any issues or have questions:
 
 If you find this project helpful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/research-paper-analyzer&type=Date)](https://star-history.com/#yourusername/research-paper-analyzer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JatinKhanijoan/research-paper-analyzer&type=Date)](https://star-history.com/JatinKhanijoan/research-paper-analyzer&Date)
 
 ---
 
